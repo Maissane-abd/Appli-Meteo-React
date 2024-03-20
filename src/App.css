@@ -73,3 +73,7 @@ main {
   object-fit: cover;
 }
 
+.error-information {
+  margin-bottom : 20px;
+}
+
