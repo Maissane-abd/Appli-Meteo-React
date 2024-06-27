@@ -34,6 +34,5 @@ L'application démarrera et sera accessible dans votre navigateur à l'adresse `
 - CSS
 - Vite
 
-## Auteur
+![image](https://github.com/Maissane-abd/Appli-Meteo-React/assets/145986616/c53175b2-f129-4df7-ba75-83e33cff91d2)
 
-Abdallah Maïssane
